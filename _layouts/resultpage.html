@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<p><a href="/results/">Results</a></p>
+
+<h2>{{ page.title }}</h2>
+
+<div class="page">{{ content }}</div></br>
+
+{% if page.lastedit %}
+    <br/><div><i>Last updated <time datetime="{{page.lastedit|date:"%F"}}">{{page.lastedit|date:"%b %d, %Y"}}</time>.</i></div><br/>
+{% endif %}
