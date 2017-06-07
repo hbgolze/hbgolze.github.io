@@ -2,6 +2,7 @@
 title: Problems and Solutions
 layout: page
 description: Problems and Solutions
+permalink: /problems/
 ---
 
 The 2017 contest was held on March 18, 2017. View the [flyer](/doc/2017-umo-flyer.pdf).
