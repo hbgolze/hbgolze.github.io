@@ -23,6 +23,8 @@ The following prizes will be awarded for these placements: $100, $80, $70, $40, 
 
 The scores of all participants are included in the link below. If you opted to receive scores and comments by email, you should also have received that email. If you cannot remember your ID number, or have any issue receiving your score and comments, please email [contact@utmath.org](mailto:contact@utmath.org) using the email that you gave us when you registered for the contest, and we will assist you.
 
+[2017 UMO Scores](/doc/2017UMOscores.pdf)
+
 ### Archive
 
 [2016 Results](2016)

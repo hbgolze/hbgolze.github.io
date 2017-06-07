@@ -15,7 +15,9 @@
         <!--[if IE 7]><link rel="stylesheet" href="{{site.baseurl}}/resources/fontello/css/fontello-ie7.css"><![endif]-->
 
         <!-- Google Analytics -->
-        {% include analytics.html %}
+	{% if jekyll.environment == 'production' %}
+	{% include analytics.html %}
+	{% endif %}
     </head>
 
     <!-- MATHJAX! -->
