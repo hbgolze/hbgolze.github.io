@@ -1,7 +1,7 @@
 ---
-layout: page
+title: Utah Math Olympiad
+layout: home
 description: Home
-title: .
 ---
 
 ## Dates, Location & Registration
