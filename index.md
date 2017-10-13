@@ -1,6 +1,7 @@
 ---
 layout: page
 description: Home
+title: 
 ---
 
 ## Dates, Location & Registration
