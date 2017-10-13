@@ -2,6 +2,7 @@
 title: About Us
 layout: page
 description: About Us
+permalink: /about/
 ---
 
 The Utah Math Olympiad was founded by university students in 2012 with the goal of exposing students in Utah to accessible proof-based math. The UMO committee currently consists of the following members.
