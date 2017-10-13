@@ -11,7 +11,8 @@ The 2017 contest was held on March 18, 2017 from 1-4 pm. Here are the problems a
 
 [2017 Utah Math Olympiad Solutions](doc/2017UtahMathOlympiadSolutions.pdf)
 
-[Results](results) are now posted as well.
+[Results](results) are now posted as well. We are currently planning the 2018 edition of the contest. Please sign up for our [contact list](https://goo.gl/forms/f1nIgeAUI4V6WStI2) to learn details when they become available.
+
 
 ## Format & Scoring
 
