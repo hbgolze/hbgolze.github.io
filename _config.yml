@@ -13,6 +13,7 @@ author_email: contact@utahmath.org
 # baseurl: /
 ## URL of the domain
 url: http://www.utahmath.org
+google_analytics: UA-100557164-1
 
 ##### NAVIGATION #####
 navigation:
