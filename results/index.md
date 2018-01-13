@@ -4,28 +4,11 @@ layout: page
 description: Results
 ---
 
-Grading of the 2017 Utah Math Olympiad is now complete. We'd like to congratulate all those who participated, as there were many insightful and promising submissions. While we are especially recognizing the following students, we would like to emphasize that a low score does not at all indicate a lack of mathematical ability or potential.
-
-Congratulations to the winners of the 2017 UMO! Here are the top five finishers:
-
-1. Josh Speckman (29 points)
-2. Liam Thomas (26 points)
-3. Thomas Draper (25 points)
-4. Lucy Ward (22 points)
-5. Zachary Barbanell (21 points)
-
-The following prizes will be awarded for these placements: $100, $80, $70, $40, and $30, respectively. In addition to recognizing the top five scorers, we would also like to award $20 for the best solution to each of the following problems:
-
-- Problem 1: Jared Lane
-- Problem 2: Thomas Draper
-- Problem 3: Lucy Ward
-- Problem 4: Josh Speckman
-
-The scores of all participants are included in the link below. If you opted to receive scores and comments by email, you should also have received that email. If you cannot remember your ID number, or have any issue receiving your score and comments, please email [contact@utmath.org](mailto:contact@utmath.org) using the email that you gave us when you registered for the contest, and we will assist you.
-
-[2017 UMO Scores](/doc/2017UMOscores.pdf)
+Coming in March 2018!
 
 ### Archive
+
+[2017 Results](2017)
 
 [2016 Results](2016)
 

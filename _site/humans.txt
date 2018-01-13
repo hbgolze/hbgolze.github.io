@@ -1,8 +1,0 @@
-# INFO
-
-This is the official website of the Utah Math Olympiad.
-Content is written and owned by the UMO committee members.
-
-This file updated 2017-03-25.
-
-This is a static site built using Jekyll. (https://jekyllrb.com/)
