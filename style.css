@@ -26,6 +26,23 @@ body a:active {
     background-color: white;
 }
 
+body a.registerlink:link, a.registerlink:visited {
+   font-family: Georgia, serif;
+   background-color: #FFD700;
+   color: #24355d;
+   border: 2px solid #24355d;
+   padding: 10px 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   border-radius: 5px
+}
+
+body a.registerlink:hover, a.registerlink:active {
+   background-color: #24355d;
+   color: white;
+}
+
 li{
   margin: 10px 0;
 }

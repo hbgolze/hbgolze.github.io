@@ -9,7 +9,7 @@ description: Home
 The sixth Utah Math Olympiad will be held on Saturday, March 24, 2018 from 1-4pm. View the [flyer](doc/2018-umo-flyer.pdf).
 
 <center><span style="background-color: #FFFF00">
-<a href="https://goo.gl/forms/A9XnG9OyHPojz19z2">REGISTER HERE</a>
+<a class="registerlink" href="https://goo.gl/forms/A9XnG9OyHPojz19z2">REGISTER HERE</a>
 </span></center>
 
 <!-- [Register here](https://goo.gl/forms/A9XnG9OyHPojz19z2).  -->
