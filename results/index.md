@@ -4,7 +4,7 @@ layout: page
 description: Results
 ---
 
-Coming in March 2018!
+Coming soon!
 
 ### Archive
 

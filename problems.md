@@ -5,6 +5,12 @@ description: Problems and Solutions
 permalink: /problems/
 ---
 
+The 2018 contest was held on March 24, 2018. View the [flyer](/doc/2018-umo-flyer.pdf).
+
+[Problems](/doc/2018UtahMathOlympiad.pdf)
+
+[Solutions](/doc/2018UtahMathOlympiadSolutions.pdf)
+
 The 2017 contest was held on March 18, 2017. View the [flyer](/doc/2017-umo-flyer.pdf).
 
 [Problems](/doc/2017UtahMathOlympiad.pdf)

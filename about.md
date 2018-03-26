@@ -5,7 +5,7 @@ description: About Us
 permalink: /about/
 ---
 
-The Utah Math Olympiad was founded by university students in 2012 with the goal of exposing students in Utah to accessible proof-based math. The UMO committee currently consists of the following members.
+The Utah Math Olympiad was founded by university students in 2012 with the goal of exposing students in Utah to accessible proof-based mathematics. The UMO committee currently consists of the following members.
 
 ***Peter Baratta*** is a four-time USAMO qualifier and two-time ARML participant who hails from Massachusetts. He likes to be entertained by staring at arrays of colored lights, making them change and blink in pleasing forms—more specifically, he is an avid computer programmer and a lover of webcomics and funny pictures of cats. His favorite equation is 
 
@@ -24,3 +24,4 @@ Peter graduated from Brigham Young University with a degree in math.
 ***Annie Yun*** attended West High School in Salt Lake City. She attended National Mathcounts twice and ARML five times. She also won the Utah State Math Contest four times and the Utah Math Olympiad once. Outside of math, she loves golden retrievers, vanilla ice cream and hiking. She can snorkel but she can’t swim. Annie is currently an undergraduate at the Massachusetts Institute of Technology.
 
 Past members have included ***Wyatt Mackey*** and ***Michael Zhao***.
+
