@@ -179,16 +179,24 @@ code {
     padding-left: 3px;
     padding-right: 3px;
 }*/
-/* Tables */
-/*table {
+/*Tables */
+table {
+    /*border-collapse:collapse;*/
     border: none;
-}*/
+    border-collapse: separate;
+    border-spacing: 25px 0;
+    margin-left:auto; 
+    margin-right:auto;
+}
 /*tr {
     border-bottom: 1px solid #CCC;
 }*/
-/*th {
-    text-align: center;
-}*/
-/*td {
-    padding-left: 20px;
-}*/
+th {
+    text-align: left;
+}
+td {
+    padding: 5px 0;
+    /*padding-left: 0px;*/
+    vertical-align: top;
+    text-align: left;
+}
