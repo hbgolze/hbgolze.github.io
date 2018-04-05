@@ -19,7 +19,11 @@ If you would like to be notified of details of future contests, sign up for our 
 
 ## Format & Scoring
 
-The Utah Math Olympiad is a 3-hour test with 6 questions designed to test a student's creativity and ability to form a rigorous mathematical proof. In order to get credit for a problem, a student must write a convincing argument that proves their answer. Note that this is not the same as merely showing one's work, nor is it the same as explaining every step in great detail. Graders should be able to logically follow each step in a student's paper. Each problem will be worth 7 points. Partial credit will be awarded for significant progress toward a correct solution. Decisions of the graders will be final. Previous contests are available on the [Problems and Solutions](problems) page.
+The Utah Math Olympiad is a 3-hour test with 6 questions designed to test a student's creativity and ability to form a rigorous mathematical proof. We favor questions that are interesting, elegant, and accessible. However, they are also designed to be very challenging, and they increase in difficulty from problem 1 to problem 6. In order to get credit for a problem, a student must write a convincing argument that proves their answer. This is not the same as merely showing one's work, nor is it the same as explaining every step in great detail.
+
+Each problem is worth 7 points, for 42 points possible. Partial credit is awarded for significant progress toward a correct solution. We take great effort to assign scores appropriately and consistently. While no grading scheme is infallible, decisions of the graders will be final.
+
+Previous contests are available on the [Problems and Solutions](problems) page.
 
 ## Eligibility
 
