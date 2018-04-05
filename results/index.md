@@ -4,7 +4,7 @@ layout: page
 description: Results
 ---
 
-Congratulations to all the participants in the 2017 Utah Math Olympiad. We especially congratulate the top 10 places in the state of Utah:
+Congratulations to all the participants in the 2018 Utah Math Olympiad. We especially congratulate the top 10 places in the state of Utah:
 
 | Rank | Name | Score | School | Grade | Prize |
 | --- | --- | --- | --- | --- | --- |
