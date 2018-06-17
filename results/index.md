@@ -21,7 +21,7 @@ Congratulations to all the participants in the 2018 Utah Math Olympiad. We espec
 
 There were many insightful and promising submissions. The graders would like to award $20 for the best solution to each of the following problems:
 
-| Rank | Name | School | Grade | Prize |
+| Problem | Name | School | Grade | Prize |
 | --- | --- | --- | --- | --- |
 | 1 | Zachary Barbanell | West High School | 11 | $20 |
 | 2 | Alex Cheng | Hillcrest High School | 11 | $20 |
