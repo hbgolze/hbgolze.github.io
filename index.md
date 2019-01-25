@@ -6,9 +6,7 @@ description: Home
 
 ## Dates, Location & Registration
 
-The sixth Utah Math Olympiad was held on Saturday, March 24, 2018 from 1-4pm. 
-[Results](results) are now available!
-You may also view the [problems](/doc/2018UtahMathOlympiad.pdf) or the [solutions](/doc/2018UtahMathOlympiadSolutions.pdf).
+The seventh Utah Math Olympiad will be held on Saturday, March 23, 2019. More details, including information about the location(s) and time will be announced shortly.
 
 <!-- Registration: -->
 <!-- <center><span>
