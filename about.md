@@ -7,12 +7,6 @@ permalink: /about/
 
 The Utah Math Olympiad was founded by university students in 2012 with the goal of exposing students in Utah to accessible proof-based mathematics. The UMO committee currently consists of the following members.
 
-***Peter Baratta*** is a four-time USAMO qualifier and two-time ARML participant who hails from Massachusetts. He likes to be entertained by staring at arrays of colored lights, making them change and blink in pleasing forms—more specifically, he is an avid computer programmer and a lover of webcomics and funny pictures of cats. His favorite equation is 
-
-![equation]({{site.baseurl}}/img/ibp.png){:height="30px" title="Equation" alt="Integration by Parts"}.
-
-Peter graduated from Brigham Young University with a degree in math.
-
 ***Sam Dittmer*** is a three-time USAMO qualifier and two-time ARML participant from Indiana who has also lived in Albania. His roommates describe his interests as "numbers numbers numbers politics", but this is a gross oversimplification. He also likes movies. Sam won national ARML his sophomore year in high school. Sam is currently a graduate student studying mathematics at UCLA. 
 
 ***Hiram Golze*** attended Utah’s own Skyline High School. He went to MathCounts Nationals in 8th grade, attended ARML for four years, qualified for the USAMO once, and won the Utah State Math Contest twice. Aside from math, Hiram enjoys playing Ultimate Frisbee, cycling, and hiking—sometimes up to two of these at a time. He has a master's degree in math from the University of Illinois at Urbana-Champaign and currently resides in Salt Lake City.
@@ -23,5 +17,5 @@ Peter graduated from Brigham Young University with a degree in math.
 
 ***Annie Yun*** attended West High School in Salt Lake City. She attended National Mathcounts twice and ARML five times. She also won the Utah State Math Contest four times and the Utah Math Olympiad once. Outside of math, she loves golden retrievers, vanilla ice cream and hiking. She can snorkel but she can’t swim. Annie is currently an undergraduate at the Massachusetts Institute of Technology.
 
-Past members have included ***Wyatt Mackey*** and ***Michael Zhao***.
+Past members have included ***Peter Baratta***, ***Wyatt Mackey***, and ***Michael Zhao***.
 

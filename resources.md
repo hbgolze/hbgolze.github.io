@@ -29,4 +29,4 @@ We recommend the following articles, books, websites, and contests.
 
 [AMC, AIME, and USA(J)MO series](http://www.maa.org/math-competitions)<br>
 [ARML (American Regions Math League)](http://www.arml2.com/arml_2016/page/index.php?page_type=public&page=home)<br>
-[The Mandelbrot Competition](http://mandelbrot.org/) (on hiatus until July 2017)
+[The Mandelbrot Competition](http://mandelbrot.org/)
