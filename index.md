@@ -10,7 +10,7 @@ description: Home
 [View the flyer!](/doc/2020-umo-flyer.pdf)
 
 <center><span>
-<a class="registerlink" href="TODO">REGISTER HERE</a>
+<a class="registerlink" href="https://docs.google.com/forms/d/e/1FAIpQLSdKx_rdhcz0C1QxtxPj4EYRoiNeXpuGK3fbpjQXqgMhnxQZCQ/viewform?usp=sf_link">REGISTER HERE</a>
 </span></center>
 
 If you would like to be notified of details of future contests, sign up for our [contact list](https://goo.gl/forms/f1nIgeAUI4V6WStI2). We send only a few emails a year.
