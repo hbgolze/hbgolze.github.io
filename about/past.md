@@ -2,6 +2,7 @@
 title: Past Members
 layout: page
 description: Past Members
+permalink: /about/past/
 ---
 
 - ***Peter Baratta (2012 -- 2017)***
