@@ -5,17 +5,20 @@ description: About Us
 permalink: /about/
 ---
 
-The Utah Math Olympiad was founded by university students in 2012 with the goal of exposing students in Utah to accessible proof-based mathematics. The UMO committee currently consists of the following members.
+The Utah Math Olympiad was founded by university students in 2012 with the goal of exposing students in Utah to accessible proof-based mathematics. The UMO committee currently consists of the following members:
 
-***Sam Dittmer*** is a three-time USAMO qualifier and two-time ARML participant from Indiana who has also lived in Albania. His roommates describe his interests as "numbers numbers numbers politics", but this is a gross oversimplification. He also likes movies. Sam won national ARML his sophomore year in high school. Sam is currently a graduate student studying mathematics at UCLA. 
+- ***Hiram Golze (2012 -- present)*** attended Utah's own Skyline High School. He went to MathCounts Nationals in 8th grade, attended ARML for four years, qualified for the USAMO once, and won the Utah State Math Contest twice. Aside from math, Hiram enjoys playing Ultimate Frisbee, cycling, and hiking—sometimes up to two of these at a time. He has a master's degree in math from the University of Illinois at Urbana-Champaign and currently teaches at Waterford School in Salt Lake City.
 
-***Hiram Golze*** attended Utah’s own Skyline High School. He went to MathCounts Nationals in 8th grade, attended ARML for four years, qualified for the USAMO once, and won the Utah State Math Contest twice. Aside from math, Hiram enjoys playing Ultimate Frisbee, cycling, and hiking—sometimes up to two of these at a time. He has a master's degree in math from the University of Illinois at Urbana-Champaign and currently resides in Salt Lake City.
+- ***Sam Dittmer (2012 -- present)*** is a three-time USAMO qualifier and two-time ARML participant from Indiana who has also lived in Albania. His roommates describe his interests as "numbers numbers numbers politics", but this is a gross oversimplification. He also likes movies. Sam won national ARML his sophomore year in high school. Sam is currently a graduate student studying mathematics at UCLA. 
 
-***Grant Molnar*** is from North Carolina, where he attended no exciting math competitions before college. As an undergraduate, he tied for third place in the Virginia Tech Regional Math Competition. He spends an undue amount of time enthusing about the beauty of obscure theorems to uninterested bystanders. Grant is interested in everything except college basketball, and currently is a graduate student at Dartmouth.
+- ***Caleb Stanford (2012 -- present)*** also attended Skyline High School, and went to ARML three times. He won the Utah State Math Contest five times and qualified for the USAMO once. He enjoys thinking about math problems during his free time. He is also a fan of puzzle games, analytic philosophy, Facebook, Stack Exchange, and several productivity apps which he uses extensively. Caleb is currently a graduate student in computer science at the University of Pennsylvania.
 
-***Caleb Stanford*** also attended Skyline High School, and went to ARML three times. He won the Utah State Math Contest five times and qualified for the USAMO once. He enjoys thinking about math problems during his free time. He is also a fan of puzzle games, analytic philosophy, Facebook, Stack Exchange, and several productivity apps which he uses extensively. Caleb is currently a graduate student in computer science at the University of Pennsylvania.
+- ***Grant Molnar (2015 -- present)*** is from North Carolina, where he attended no exciting math competitions before college. As an undergraduate, he tied for third place in the Virginia Tech Regional Math Competition. He spends an undue amount of time enthusing about the beauty of obscure theorems to uninterested bystanders. Grant is interested in everything except college basketball, and currently is a graduate student at Dartmouth.
 
-***Annie Yun*** attended West High School in Salt Lake City. She attended National Mathcounts twice and ARML five times. She also won the Utah State Math Contest four times and the Utah Math Olympiad once. Outside of math, she loves golden retrievers, vanilla ice cream and hiking. She can snorkel but she can’t swim. Annie is currently an undergraduate at the Massachusetts Institute of Technology.
+- ***Annie Yun (2017 -- present)*** attended West High School in Salt Lake City. She attended National MathCounts twice and ARML five times. She also won the Utah State Math Contest four times and the Utah Math Olympiad once. Outside of math, she loves golden retrievers, vanilla ice cream and hiking. She can snorkel but she can't swim. Annie is currently an undergraduate at the Massachusetts Institute of Technology.
 
-Past members have included ***Peter Baratta***, ***Wyatt Mackey***, and ***Michael Zhao***.
+- ***Daniel South (2019 -- present)*** attended Waterford School in Sandy, Utah. He qualified for MathCounts Nationals twice, the USA(J)MO three times, and holds a world record. His favorite poem is Jake Adam York's "Abide" and his favorite color is purple. He has spent approximately two weeks of his life listening to music by Dan Forrest, but he also likes South African music. Daniel is currently an undergraduate student in math at Brigham Young University.
 
+- ***Josh Speckman (2019 -- present)***
+
+[Past Members](past)

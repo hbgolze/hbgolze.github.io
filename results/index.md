@@ -2,6 +2,7 @@
 title: Results
 layout: page
 description: Results
+permalink: /results/
 ---
 
 Stay tuned for the results of the 2020 contest! (We usually post results 1-2 weeks after the contest finishes.)
