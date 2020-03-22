@@ -4,7 +4,7 @@ layout: home
 description: Home
 ---
 
-## 2020 UMO --- Problems and Solutions
+## 2020 UMO -- Problems and Solutions
 
 Congratulations to everyone who participated in the 2020 UMO! Due to COVID-19, this was the first time the UMO was distributed online. We thank the proctors who volunteered for each student for making everything run smoothly.
 Here are the problems and solutions:
