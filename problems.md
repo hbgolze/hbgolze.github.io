@@ -5,6 +5,12 @@ description: Problems and Solutions
 permalink: /problems/
 ---
 
+The 2020 contest was held on March 21, 2020. View the [flyer](/doc/2020-umo-flyer.pdf).
+
+[Problems](/doc/2020UtahMathOlympiad.pdf)
+
+[Solutions](/doc/2020UtahMathOlympiadSolutions.pdf)
+
 The 2019 contest was held on March 23, 2019. View the [flyer](/doc/2019-umo-flyer.pdf).
 
 [Problems](/doc/2019UtahMathOlympiad.pdf)
