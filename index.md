@@ -4,16 +4,15 @@ layout: home
 description: Home
 ---
 
-## 2020 UMO -- Problems and Solutions
+## 2020 UMO Results
 
-Congratulations to everyone who participated in the 2020 UMO! Due to COVID-19, this was the first time the UMO was distributed online. We thank the proctors who volunteered for each student for making everything run smoothly.
-Here are the problems and solutions:
+[The results are now available!](results)
+
+Due to COVID-19, this was the first time the UMO was distributed online. We thank the proctors who volunteered for each student for making everything run smoothly.
 
 [2020 UMO Problems](/doc/2020UtahMathOlympiad.pdf)
 
 [2020 UMO Solutions](/doc/2020UtahMathOlympiadSolutions.pdf)
-
-We usually post results 1-2 weeks after the contest finishes. Stay tuned!
 
 ## Dates, Location & Registration
 
@@ -33,7 +32,7 @@ Any Utah student who has not completed 12th grade and is 19 years old or younger
 
 ## Prizes
 
-Prizes will be awarded to the top five scorers. Prize denominations will depend on ties and the amount of money available. See the results page using the link above to see previous years' prizes.
+Prizes will be awarded to the top five scorers. Prize denominations will depend on ties and the amount of money available. Visit the [results page](results) to see previous years' prizes.
 
 ## Contact Us
 
