@@ -17,8 +17,8 @@ The Utah Math Olympiad was founded by university students in 2012 with the goal 
 
 - ***Annie Yun (2017 -- present)*** attended West High School in Salt Lake City. She attended National MathCounts twice and ARML five times. She also won the Utah State Math Contest four times and the Utah Math Olympiad once. Outside of math, she loves golden retrievers, vanilla ice cream and hiking. She can snorkel but she can't swim. Annie is currently an undergraduate at the Massachusetts Institute of Technology.
 
-- ***Daniel South (2019 -- present)*** attended Waterford School in Sandy, Utah. He qualified for MathCounts Nationals twice, the USA(J)MO three times, and holds a world record. His favorite poem is Jake Adam York's "Abide" and his favorite color is purple. He has spent approximately two weeks of his life listening to music by Dan Forrest, but he also likes South African music. Daniel is currently an undergraduate student in math at Brigham Young University.
-
 - ***Josh Speckman (2019 -- present)*** attended West High School in Salt Lake City. He qualified for the USAMO once, attended ARML four times, and took the UMO three times. His favorite result is Monsky’s Theorem. Outside of math, Josh enjoys singing and baking. He currently lives in Los Angeles with his books, where he is a student at USC.
+
+- ***Daniel South (2019 -- present)*** attended Waterford School in Sandy, Utah. He qualified for MathCounts Nationals twice, the USA(J)MO three times, and holds a world record. His favorite poem is Jake Adam York's "Abide" and his favorite color is purple. He has spent approximately two weeks of his life listening to music by Dan Forrest, but he also likes South African music. Daniel is currently an undergraduate student in math at Brigham Young University.
 
 [Past Members](past)
