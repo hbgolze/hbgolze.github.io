@@ -5,6 +5,7 @@ description: Results
 permalink: /results/
 ---
 
+Stay tuned for the 2021 results!
 Results are usually posted a few weeks following the contest date.
 
 ### Archive
