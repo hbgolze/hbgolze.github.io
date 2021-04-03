@@ -5,8 +5,33 @@ description: Results
 permalink: /results/
 ---
 
-Stay tuned for the 2021 results!
-Results are usually posted a few weeks following the contest date.
+Congratulations to all the participants in the 2021 Utah Math Olympiad. We especially congratulate the top 10 places in the state of Utah:
+
+| Rank | Name | Score | School | Grade | Prize |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Joseph Camacho | 29 | Timpview High School | 11 | $100
+| 2 | Zachary Klein | 26 | Rowland Hall | 10 | $75
+| 3 | James Camacho | 24 | Timpview High School | 11 | $60
+| 4 | Jaroldeen Oveson | 22 | Timpview High School | 11 | $50
+| 5 | Liam Reddy | 20 | Waterford School | 6 | $35
+| 6 | Kiran Reddy | 18 | Waterford School | 8 |
+| 6 | Simon Kerr | 18 | Herriman High School | 11 |
+| 8 | Luke Holt | 17 | AMES | 10 |
+| 9 | Sophie Zheng | 14 | Rowland Hall | 9 |
+| 10 | Matthew Argyle | 12 | Timpview High School | 11 |
+
+Additionally, the graders would like to award $20 for the best solution to each of the following problems:
+
+| Problem | Name | School | Grade | Prize |
+| --- | --- | --- | --- | --- |
+| 1 | Kiran Reddy | Waterford School | 8 | $20 |
+| 2 | Joseph Camacho | Timpview High School | 11 | $20 |
+| 3 | Sophie Zheng | Rowland Hall | 9 | $20 |
+| 5 | Simon Kerr | Herriman High School | 11 | $20 |
+
+The scores of all participants are included in the link below. If you opted to receive scores and comments by email, you should also have received that email. If you cannot remember your ID number, or have any issue receiving your score and comments, please email [{{site.author_email}}](mailto:{{site.author_email}}) using the email that you gave us when you registered for the contest, and we will assist you.
+
+[2021 UMO Scores](/doc/2021UMOscores.pdf)
 
 ### Archive
 

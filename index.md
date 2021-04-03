@@ -7,11 +7,11 @@ description: Home
 ## Dates, Location, and Registration
 
 The ninth annual Utah Math Olympiad was held on Saturday, March 20, 2021 from 1-4pm.
-Here are the
+
+[Results and prizes are now available!](results)
+You may also view the
 [problems](/doc/2021UtahMathOlympiad.pdf)
 and [solutions](/doc/2021UtahMathOlympiadSolutions.pdf).
-Due to the ongoing COVID-19 situation, the UMO was held online for the second time this year.
-Stay tuned for the results!
 
 <!-- HTML for registration link
 <center><span>
