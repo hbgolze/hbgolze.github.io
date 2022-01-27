@@ -6,18 +6,14 @@ description: Home
 
 ## Dates, Location, and Registration
 
-The ninth annual Utah Math Olympiad was held on Saturday, March 20, 2021 from 1-4pm.
+The tenth annual Utah Math Olympiad will be held in person at the Waterford School on March 26, 2022. [View the flyer](/doc/2022-umo-flyer.pdf) or register below:
 
-[Results and prizes are now available!](results)
-You may also view the
-[problems](/doc/2021UtahMathOlympiad.pdf)
-and [solutions](/doc/2021UtahMathOlympiadSolutions.pdf).
-
-<!-- HTML for registration link
+<!-- HTML for registration link -->
 <center><span>
-<a class="registerlink" href="https://docs.google.com/forms/d/e/1FAIpQLSeP5FkOHeEdtmpuqknp_maToTswrYDf_PZN5rZap2Lq2utPtg/viewform?usp=sf_link">REGISTER HERE</a>
+<a class="registerlink" href="https://docs.google.com/forms/d/e/1FAIpQLSer0-iSy5S8xL-8aTY_2vML03bB-qXyJSqIzuZM77klUHwCkg/viewform?usp=sf_link">REGISTER HERE</a>
 </span></center>
--->
+
+## Contact List
 
 If you would like to be notified of details of future contests, sign up for our [contact list](https://goo.gl/forms/f1nIgeAUI4V6WStI2). We send only a few emails a year.
 
