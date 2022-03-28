@@ -6,12 +6,18 @@ description: Home
 
 ## Dates, Location, and Registration
 
-The tenth annual Utah Math Olympiad will be held in person at the Waterford School on March 26, 2022. [View the flyer](/doc/2022-umo-flyer.pdf) or register below:
+The tenth annual Utah Math Olympiad was held on Saturday, March 26, 2022 from 1-4pm.
+Here are the
+[problems](/doc/2022UtahMathOlympiad.pdf)
+and [solutions](/doc/2022UtahMathOlympiadSolutions.pdf).
+For the first time since 2019, the UMO was held in person.
+Stay tuned for the results!
 
-<!-- HTML for registration link -->
+
+<!-- HTML for registration link 
 <center><span>
 <a class="registerlink" href="https://docs.google.com/forms/d/e/1FAIpQLSer0-iSy5S8xL-8aTY_2vML03bB-qXyJSqIzuZM77klUHwCkg/viewform?usp=sf_link">REGISTER HERE</a>
-</span></center>
+</span></center>-->
 
 ## Contact List
 

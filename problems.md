@@ -7,6 +7,7 @@ permalink: /problems/
 
 | Contest | Date | Flyer | Problems | Solutions |
 | --- | --- | --- | --- | --- |
+| 2022 | March 26 | [Flyer](/doc/2022-umo-flyer.pdf) | [Problems](/doc/2022UtahMathOlympiad.pdf) | [Solutions](/doc/2022UtahMathOlympiadSolutions.pdf)
 | 2021 | March 20 | [Flyer](/doc/2021-umo-flyer.pdf) | [Problems](/doc/2021UtahMathOlympiad.pdf) | [Solutions](/doc/2021UtahMathOlympiadSolutions.pdf)
 | 2020 | March 21 | [Flyer](/doc/2020-umo-flyer.pdf) | [Problems](/doc/2020UtahMathOlympiad.pdf) | [Solutions](/doc/2020UtahMathOlympiadSolutions.pdf) |
 | 2019 | March 23 | [Flyer](/doc/2019-umo-flyer.pdf) | [Problems](/doc/2019UtahMathOlympiad.pdf) | [Solutions](/doc/2019UtahMathOlympiadSolutions.pdf) |

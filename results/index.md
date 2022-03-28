@@ -6,6 +6,7 @@ permalink: /results/
 ---
 
 Stay tuned for the 2022 results following the contest!
+Results are usually posted a few weeks following the contest date.
 
 ### Archive
 
