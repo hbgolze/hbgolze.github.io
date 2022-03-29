@@ -5,6 +5,7 @@ description: Problems and Solutions
 permalink: /problems/
 ---
 
+| Year | Date | Files |  |  |
 | --- | --- | --- | --- | --- |
 | 2022 | March 26 | [Flyer](/doc/2022-umo-flyer.pdf) | [Problems](/doc/2022UtahMathOlympiad.pdf) | [Solutions](/doc/2022UtahMathOlympiadSolutions.pdf) |
 | 2021 | March 20 | [Flyer](/doc/2021-umo-flyer.pdf) | [Problems](/doc/2021UtahMathOlympiad.pdf) | [Solutions](/doc/2021UtahMathOlympiadSolutions.pdf) |
