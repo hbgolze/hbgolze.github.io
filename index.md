@@ -20,7 +20,7 @@ and [solutions](/doc/2022UtahMathOlympiadSolutions.pdf).
 
 ## Contact List
 
-If you would like to be notified of details of future contests, sign up for our [contact list](https://goo.gl/forms/f1nIgeAUI4V6WStI2). We send only a few emails a year.
+If you would like to be notified of details of future contests, sign up for our [contact list](https://forms.gle/64Ns5xXmiR6GHraJ7). We send only a few emails a year.
 
 ## Format and Scoring
 
