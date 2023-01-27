@@ -2,3 +2,5 @@ _site/
 Icon[
 ]
 .jekyll-cache/
+.DS_Store
+Gemfile.lock
