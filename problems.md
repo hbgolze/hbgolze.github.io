@@ -7,7 +7,7 @@ permalink: /problems/
 
 | Year | Date | Files |  |  |
 | --- | --- | --- | --- | --- |
-| 2023 | March 25 | [Flyer](/doc/2023-umo-flyer.pdf) |  |  |
+| 2023 | March 25 | [Flyer](/doc/2023-umo-flyer.pdf) | [Problems](/doc/2023UtahMathOlympiad.pdf) | [Solutions](/doc/2023UtahMathOlympiadSolutions.pdf) |
 | 2022 | March 26 | [Flyer](/doc/2022-umo-flyer.pdf) | [Problems](/doc/2022UtahMathOlympiad.pdf) | [Solutions](/doc/2022UtahMathOlympiadSolutions.pdf) |
 | 2021 | March 20 | [Flyer](/doc/2021-umo-flyer.pdf) | [Problems](/doc/2021UtahMathOlympiad.pdf) | [Solutions](/doc/2021UtahMathOlympiadSolutions.pdf) |
 | 2020 | March 21 | [Flyer](/doc/2020-umo-flyer.pdf) | [Problems](/doc/2020UtahMathOlympiad.pdf) | [Solutions](/doc/2020UtahMathOlympiadSolutions.pdf) |
