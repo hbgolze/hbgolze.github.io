@@ -4,7 +4,11 @@ layout: page
 description: Results
 ---
 
-2023 -- stay tuned!
+{% include_relative 2023.md %}
+
+## All Results
+
+[2023](2023)
 
 [2022](2022)
 
