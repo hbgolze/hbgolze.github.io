@@ -8,7 +8,7 @@ description: Home
 
 The 11th Utah Math Olympiad was held Saturday, March 25, 2023 from 1-4pm at the Waterford School.
 
-- **[Results](/results/) are now available!**
+- **[Results](/results/2023/) are now available!**
 
 - You may also view the [Problems](/doc/2023UtahMathOlympiad.pdf) and [Solutions](/doc/2023UtahMathOlympiadSolutions.pdf).
 
