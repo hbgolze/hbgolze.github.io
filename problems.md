@@ -18,3 +18,8 @@ permalink: /problems/
 | 2015 | March 21 | [Flyer](/doc/2015-umo-flyer.pdf) | [Problems](/doc/2015UtahMathOlympiad.pdf) | [Solutions](/doc/2015UtahMathOlympiadSolutions.pdf) |
 | 2014 | March 22 | [Flyer](/doc/2014-umo-flyer.pdf) | [Problems](/doc/2014UtahMathOlympiad.pdf) | [Solutions](/doc/2014UtahMathOlympiadSolutions.pdf) |
 | 2013 | February 16 | [Flyer](/doc/2013-umo-flyer.pdf) | [Problems](/doc/2013UtahMathOlympiad.pdf) | [Solutions](/doc/2013UtahMathOlympiadSolutions.pdf) |
+
+### © Copyright Notice
+
+We encourage you to use and distribute the UMO problems and solutions for educational purposes, with attribution. Commercial use is prohibited.
+Copyright is held by the [UMO committee](../about).
