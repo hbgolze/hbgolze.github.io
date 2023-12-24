@@ -23,4 +23,7 @@ is from North Carolina, where he attended no exciting math competitions before c
 - ***Daniel South (2019 -- present)***
 attended Waterford School in Sandy, Utah. He took the USAMO twice and achieved two top-200 Putnam finishes in college. He graduated from UVU in 2023 and currently works as an actuary in Richmond, Virginia, where he is learning about statistics and data science within the super duper exciting world of insurance. Outside of work, Daniel enjoys hiking, cooking, music, poker, and watching sports.
 
+- ***Zachary Klein (2024 -- present)***
+attended Rowland Hall in Salt Lake City, Utah. He qualified for Mathcounts nationals in 8th grade and won the Utah Math Olympiad his senior year. He is currently an undergraduate at Columbia University studying computer science and applied math. Zach enjoys math, poker, rock climbing, public transit, and future-predicting.
+
 [Past Members](past)
