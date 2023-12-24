@@ -15,7 +15,7 @@ is a three-time USAMO qualifier and two-time Putnam honorable mention from India
 
 - ***Caleb Stanford (2012 -- present)***
 is an assistant professor of computer science at UC Davis.
-He grew up in Utah, where he won the Utah State Math Contest five times and qualified for the USAMO once. He holds a bachelor's degree in math and computer science from Brown and a PhD degree in computer science from the University of Pennsylvania. He enjoys thinking about math problems when he is supposed to be doing real work. He is also a fan of puzzle games, analytic philosophy, Facebook, Stack Exchange, and several productivity apps which he uses extensively. He lives in the bay area with his wife and two cats.
+He grew up in Utah, where he won the Utah State Math Contest five times and qualified for the USAMO once. He holds an ScB from Brown and a PhD from the University of Pennsylvania. He enjoys thinking about math problems when he is supposed to be doing real work. He is also a fan of puzzle games, analytic philosophy, Facebook, Stack Exchange, and several productivity apps which he uses extensively. Caleb lives in the bay area with his wife and two cats.
 
 - ***Grant Molnar (2015 -- present)***
 is from North Carolina, where he attended no exciting math competitions before college. As an undergraduate, he tied for third place in the Virginia Tech Regional Math Competition. He spends an undue amount of time enthusing about the beauty of obscure theorems to uninterested bystanders. Grant is interested in everything except college basketball. He graduated with his PhD in math from Dartmouth in 2023.
