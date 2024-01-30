@@ -6,7 +6,7 @@ description: Home
 
 ## Dates, Location, and Registration
 
-The 12th Utah Math Olympiad will be held Saturday, March 23, 2024 from 1-4pm at the Waterford School. You may [view the flyer](https://docs.google.com/forms/d/e/1FAIpQLScq_3rwBsM4eNwTIj4yGIceSNvgaL4btwuH1kqq_hOR6BBpdg/viewform?usp=sf_link); please register below:
+The 12th Utah Math Olympiad will be held Saturday, March 23, 2024 from 1-4pm at the Waterford School. You may [view the flyer](/doc/2024-umo-flyer.pdf); please register below:
 
 <!-- HTML for registration link -->
 <center><span>
