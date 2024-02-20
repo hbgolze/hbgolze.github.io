@@ -11,7 +11,7 @@ permalink: /about/past/
 
 - ***Wyatt Mackey (2014 -- 2016)***
 
-- ***Annie Yun (2017 -- 2022)***
+- ***Annie Yun (2017 -- 2020)***
 
 - ***Josh Speckman (2019 -- 2022)***
 
