@@ -7,9 +7,9 @@ permalink: /about/past/
 
 - ***Peter Baratta (2012 -- 2017)***
 
-- ***Michael Zhao (2014 -- 2015)***
-
 - ***Wyatt Mackey (2014 -- 2016)***
+
+- ***Michael Zhao (2014 -- 2015)***
 
 - ***Annie Yun (2017 -- 2020)***
 

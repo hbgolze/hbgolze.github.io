@@ -7,11 +7,11 @@ permalink: /about/
 
 The Utah Math Olympiad was founded by university students in 2012 with the goal of exposing students in Utah to accessible proof-based mathematics. The UMO committee currently consists of the following members:
 
-- ***Hiram Golze (2012 -- present)***
-is a math teacher at the Waterford School. He grew up in Utah, where he won the Utah State Math Contest twice and qualified for the USAMO once. He currently coaches the Utah ARML Team and has coached the Utah state MATHCOUNTS team. He has a master’s degree in math from the University of Illinois at Urbana-Champaign. Aside from math, Hiram enjoys playing Ultimate Frisbee, cycling, and hiking -- sometimes up to two of these at a time.
-
 - ***Sam Dittmer (2012 -- present)***
 is a three-time USAMO qualifier and two-time Putnam honorable mention from Indiana who has also lived in Albania. His interests have been described as "numbers numbers numbers politics", but this is a gross oversimplification. He also likes movies. Sam won national ARML his sophomore year in high school. Sam graduated with a PhD in math from UCLA in 2019.
+
+- ***Hiram Golze (2012 -- present)***
+is a math teacher at the Waterford School. He grew up in Utah, where he won the Utah State Math Contest twice and qualified for the USAMO once. He currently coaches the Utah ARML Team and has coached the Utah state MATHCOUNTS team. He has a master’s degree in math from the University of Illinois at Urbana-Champaign. Aside from math, Hiram enjoys playing Ultimate Frisbee, cycling, and hiking -- sometimes up to two of these at a time.
 
 - ***Caleb Stanford (2012 -- present)***
 is an assistant professor of computer science at UC Davis.
