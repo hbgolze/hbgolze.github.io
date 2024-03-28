@@ -6,9 +6,9 @@ description: Home
 
 ## Dates, Location, and Registration
 
-The 12th Utah Math Olympiad was held Saturday, March 23, 2024 from 1-4pm at the Waterford School.
-The [problems and solutions](problems/) are available.
-Stay tuned for the results!
+The 12th Utah Math Olympiad has concluded. The [results](results/2024) are now available!
+
+You may also check out the [problems and solutions](problems/) for this and all past contests.
 
 <!-- - **[Results](/results/2023) are now available!**
 
