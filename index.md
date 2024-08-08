@@ -4,6 +4,10 @@ layout: home
 description: Home
 ---
 
+## UMO Book
+
+{% include umo-book.md %}
+
 ## Dates, Location, and Registration
 
 The 12th Utah Math Olympiad has concluded. The [results](results/2024) are now available!

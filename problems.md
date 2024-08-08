@@ -5,6 +5,12 @@ description: Problems and Solutions
 permalink: /problems/
 ---
 
+### UMO Book
+
+{% include umo-book.md %}
+
+### Past Problems
+
 | Year | Date | Files |  |  |
 | --- | --- | --- | --- | --- |
 | 2024 | March 23 | [Flyer](/doc/2024-umo-flyer.pdf) | [Problems](/doc/2024UtahMathOlympiad.pdf) | [Solutions](/doc/2024UtahMathOlympiadSolutions.pdf) |
