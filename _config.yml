@@ -6,7 +6,7 @@ name: Utah Mathematical Olympiad
 description: Utah Math Olympiad Website
 ## Author (hidden)
 author: Caleb Stanford
-## email 
+## email
 author_email: contact@utahmath.org
 # Alt: caleb at utahmath dot org
 ## Uncomment to run in a subdirectory
@@ -19,10 +19,10 @@ google_analytics: UA-100557164-1
 navigation:
  - text: Home
    url: /
+ - text: Information
+   url: /information/
  - text: Problems and Solutions
    url: /problems/
- # - text: Registration
- #   url: /registration/
  - text: Results
    url: /results/
  - text: Resources
@@ -30,7 +30,6 @@ navigation:
  - text: About Us
    url: /about/
 ---
-
 
 ##### TECHNICAL #####
 ## Markdown Engine
