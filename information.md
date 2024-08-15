@@ -13,7 +13,7 @@ Each problem is worth 7 points, for 42 points possible. Partial credit is awarde
 
 ## Previous contests
 
-Previous contests are available on the [Problems and Solutions](problems) page.
+Previous contests are available on the [Problems and Solutions](/problems) page.
 
 ## Eligibility
 
@@ -21,4 +21,4 @@ The UMO is intended for advanced high school students. However, any Utah student
 
 ## Prizes
 
-Prizes will be awarded to the top five scorers. Prize denominations will depend on ties and the amount of money available. Visit the [results page](results) to see previous years' prizes.
+Prizes will be awarded to the top five scorers. Prize denominations will depend on ties and the amount of money available. Visit the [results page](/results) to see previous years' prizes.
