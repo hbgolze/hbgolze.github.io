@@ -27,6 +27,14 @@ You may also check out the [problems and solutions](problems/) for this and all 
 
 If you would like to be notified of details of future contests, sign up for our [contact list](https://forms.gle/64Ns5xXmiR6GHraJ7). We send only a few emails a year.
 
+## Supporters of the UMO
+
+We are grateful for support including prizes for this year's contest from [AwesomeMath](https://awesomemath.org/).
+
+<a href="https://awesomemath.org/">
+  <img src="img/AwesomeMathLogo.png" alt="AwesomeMath" width="200">
+</a>
+
 ## Contact Us
 
 [{{site.author_email}}](mailto:{{site.author_email}})
