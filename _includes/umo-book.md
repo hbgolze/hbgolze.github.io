@@ -1,8 +1,6 @@
-We published a book! 🎉
-
+Are you interested in having a copy of the past problems in a physical format?
 ***Puzzle and Proof: A Decade of Problems from the Utah Math Olympiad***
-compiles problems and solutions from the first ten years of the UMO, including flyer problems.
-You can find more information at any of the links below:
+compiles problems and solutions from the first ten years of the UMO, including all flyer problems and their solutions. You can find more information at any of the links below:
 
 <center><span>
 <a class="registerlink" href="https://www.routledge.com/Puzzle-and-Proof-A-Decade-of-Problems-from-the-Utah-Math-Olympiad/Dittmer-Golze-Molnar-Stanford/p/book/9781032755526">CRC Press</a>

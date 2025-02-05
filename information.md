@@ -11,10 +11,6 @@ The Utah Math Olympiad (UMO) is a 3-hour test with 6 questions. We favor questio
 
 Each problem is worth 7 points, for 42 points possible. Partial credit is awarded for significant progress toward a correct solution. We take great effort to assign scores appropriately and consistently. While no grading scheme is infallible, decisions of the graders will be final.
 
-## Previous contests
-
-Previous contests are available on the [Problems and Solutions](/problems) page.
-
 ## Eligibility
 
 The UMO is intended for advanced high school students. However, any Utah student who has not completed 12th grade and is 19 years old or younger is eligible to participate.
@@ -22,3 +18,7 @@ The UMO is intended for advanced high school students. However, any Utah student
 ## Prizes
 
 Prizes will be awarded to the top five scorers. Prize denominations will depend on ties and the amount of money available. Visit the [results page](/results) to see previous years' prizes.
+
+## Previous contests
+
+Previous contests are available on the [Problems and Solutions](/problems) page.
