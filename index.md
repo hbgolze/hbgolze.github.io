@@ -6,8 +6,6 @@ description: Home
 
 ## 13th Utah Math Olympiad
 
-----
-
 We are pleased to announce the 13th Utah Math Olympiad, which will be held on **Saturday, April 5, 2025 from 1-4pm** at the [Waterford School](https://waterfordschool.org/). You may [view the flyer](/doc/2025-umo-flyer.pdf) or register below:
 
 <center><span>
