@@ -4,26 +4,12 @@ layout: page
 description: Results
 ---
 
-[2024](2024)
+<!-- ### [Most recent results]({{ site.data.years[0].year }})
 
-[2023](2023)
+### All past results -->
 
-[2022](2022)
+<!-- Display results from final year back to initial year -->
 
-[2021](2021)
-
-[2020](2020)
-
-[2019](2019)
-
-[2018](2018)
-
-[2017](2017)
-
-[2016](2016)
-
-[2015](2015)
-
-[2014](2014)
-
-[2013](2013)
+{% for item in site.data.years %}
+- [{{ item.year }}]({{ item.year }})
+{% endfor %}
