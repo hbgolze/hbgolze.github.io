@@ -13,18 +13,12 @@ We are pleased to announce the 13th Utah Math Olympiad, which will be held on **
 </span></center>
  -->
 
-## 13th Utah Math Olympiad
 
-The 13th Utah Math Olympiad has recently concluded.
-[Problems and solutions are available](problems) - stay tuned for the results!
-
-<!--
 ## 13th Utah Math Olympiad Results
 
-[Results](results/2025) of the 13th Utah Math Olympiad are now available!
+[Results](results/2025) of this year's contest are now available!
 
-Thank you for participating! Stay tuned for the details of next year's contest in January 2026, and feel free to check out the [problems and solutions](problems/) for all past contests.
--->
+Thank you for participating! Stay tuned for the details of next year's contest in January of next year.
 
 ## Supporters of the UMO
 
