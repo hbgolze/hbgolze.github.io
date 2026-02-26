@@ -15,7 +15,7 @@ is a math teacher at the Waterford School. He grew up in Utah, where he won the 
 
 - ***Caleb Stanford (2012 -- present)***
 is an assistant professor of computer science at UC Davis.
-He grew up in Utah, where he won the Utah State Math Contest five times and qualified for the USAMO once. He holds an ScB from Brown and a PhD from the University of Pennsylvania. He enjoys thinking about math problems when he is supposed to be doing real work. He is also a fan of puzzle games, analytic philosophy, Stack Exchange, Wikipedia, and coffee in its various forms. Caleb lives in the bay area with his wife and two cats.
+He grew up in Utah, where he won the Utah State Math Contest five times and qualified for the USAMO once. He holds an ScB from Brown and a PhD from the University of Pennsylvania. He enjoys thinking about math problems when he is supposed to be doing real work. He also likes puzzle games, analytic philosophy, Stack Exchange, editing Wikipedia, and coffee in its various forms. Caleb lives in the bay area with his wife and two cats.
 
 - ***Grant Molnar (2015 -- present)***
 is from North Carolina, where he attended no exciting math competitions before college. As an undergraduate, he tied for third place in the Virginia Tech Regional Math Competition. He spends an undue amount of time enthusing about the beauty of obscure theorems to uninterested bystanders. Grant is interested in everything except college basketball. He graduated with his PhD in math from Dartmouth in 2023.
@@ -25,5 +25,7 @@ attended Waterford School in Sandy, Utah. He took the USAMO twice and achieved t
 
 - ***Zachary Klein (2024 -- present)***
 attended Rowland Hall in Salt Lake City, Utah. He qualified for Mathcounts nationals in 8th grade and won the Utah Math Olympiad his senior year. He is currently an undergraduate at Columbia University studying computer science and applied math. Zach enjoys math, poker, rock climbing, public transit, and future-predicting.
+
+- ***Luke Holt (2026 -- present).***
 
 [Past Members](past)
