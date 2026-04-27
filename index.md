@@ -4,23 +4,20 @@ layout: home
 description: Home
 ---
 
-## 14th Utah Math Olympiad
+## 14th Utah Math Olympiad Results!
 
-We are pleased to announce the 14th Utah Math Olympiad, which will be held on **Saturday, April 11, 2026 from 1-4pm** at the [Waterford School](https://waterfordschool.org/).
+The 14th Utah Math Olympiad was held on **Saturday, April 11, 2026 from 1-4pm.**
+<!-- at the [Waterford School](https://waterfordschool.org/). -->
 
-- You may [view the flyer](/doc/2026-umo-flyer.pdf).
+**[Results](results/2026) are now available!**
+
+<!-- - You may [view the flyer](/doc/2026-umo-flyer.pdf).
 
 - Please register below:
 
 <center><span>
 <a class="registerlink" href="https://forms.gle/KYXupgVVJQvQoGds7">REGISTER HERE</a>
-</span></center>
-
-## 13th Utah Math Olympiad Results
-
-View the [results](results/2025) of last year's contest.
-
-Thank you for participating!
+</span></center> -->
 
 ## Contact Us
 

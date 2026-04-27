@@ -4,9 +4,11 @@ layout: page
 description: Results
 ---
 
-<!-- ### [Most recent results]({{ site.data.years[0].year }})
+{% include_relative 2026.md %}
 
-### All past results -->
+<!-- ### [Most recent results]({{ site.data.years[0].year }}) -->
+
+### All past results
 
 <!-- Display results from final year back to initial year -->
 
