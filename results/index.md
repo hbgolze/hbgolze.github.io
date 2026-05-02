@@ -4,7 +4,8 @@ layout: page
 description: Results
 ---
 
-{% include_relative 2026.md %}
+{% assign p = site.pages | where: "path", "results/2026.md" | first %}
+{{ p.content }}
 
 <!-- ### [Most recent results]({{ site.data.years[0].year }}) -->
 
